@@ -20,35 +20,19 @@ This repository contains the code and resources for the book "Time Series Foreca
 
 Below are some illustrative plots from the projects within this repository, showcasing various aspects of time series analysis and forecasting. These images are located in the `PredictingSequence-TimeSeriesAnalysis/Time Series Prediction In Tensorflow/Images` directory.
 
-* **Initial Time Series Plot:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA0.png)
+   ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA0.png)
 
-* **Trend Identification:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA1.png)
+   ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA1.png)
 
-* **Seasonality Component:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA2.png)
+   ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA2.png)
 
-* **Model Fit Visualization:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA3.png)
-
-* **Prediction vs. Actual:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA4.png)
+   ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA3.png)
+   ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA4.png)
 
 * **Error Analysis:**
     ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA5.png)
 
-* **Deep Learning Model Architecture:**
     ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA6.png)
-
-* **Loss Curve during Training:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA7.png)
-
-* **LSTM Model Output:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA8.png)
-
-* **Forecasting Future Values:**
-    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA9.png)
 
 ## Getting Started
 
