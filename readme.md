@@ -21,34 +21,34 @@ This repository contains the code and resources for the book "Time Series Foreca
 Below are some illustrative plots from the projects within this repository, showcasing various aspects of time series analysis and forecasting. These images are located in the `PredictingSequence-TimeSeriesAnalysis/Time Series Prediction In Tensorflow/Images` directory.
 
 * **Initial Time Series Plot:**
-    ![Time Series Analysis 0](Time Series Prediction In Tensorflow/Images/TSA0.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA0.png)
 
 * **Trend Identification:**
-    ![Time Series Analysis 1](Time Series Prediction In Tensorflow/Images/TSA1.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA1.png)
 
 * **Seasonality Component:**
-    ![Time Series Analysis 2](Time Series Prediction In Tensorflow/Images/TSA2.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA2.png)
 
 * **Model Fit Visualization:**
-    ![Time Series Analysis 3](Time Series Prediction In Tensorflow/Images/TSA3.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA3.png)
 
 * **Prediction vs. Actual:**
-    ![Time Series Analysis 4](Time Series Prediction In Tensorflow/Images/TSA4.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA4.png)
 
 * **Error Analysis:**
-    ![Time Series Analysis 5](Time Series Prediction In Tensorflow/Images/TSA5.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA5.png)
 
 * **Deep Learning Model Architecture:**
-    ![Time Series Analysis 6](Time Series Prediction In Tensorflow/Images/TSA6.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA6.png)
 
 * **Loss Curve during Training:**
-    ![Time Series Analysis 7](Time Series Prediction In Tensorflow/Images/TSA7.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA7.png)
 
 * **LSTM Model Output:**
-    ![Time Series Analysis 8](Time Series Prediction In Tensorflow/Images/TSA8.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA8.png)
 
 * **Forecasting Future Values:**
-    ![Time Series Analysis 9](Time Series Prediction In Tensorflow/Images/TSA9.png)
+    ![Time Series Analysis 0](TimeSeriesPredictionInTensorflow/Images/TSA9.png)
 
 ## Getting Started
 
@@ -56,11 +56,11 @@ To get started with the code, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/marcopeix/TimeSeriesForecastingInPython.git](https://github.com/marcopeix/TimeSeriesForecastingInPython.git)
+    git clone [https://github.com/rakibhhridoy/PredictingSequence-TimeSeriesAnalysis.git](https://github.com/rakibhhridoy/PredictingSequence-TimeSeriesAnalysis.git)
     ```
 2.  **Navigate to a chapter directory:**
     ```bash
-    cd TimeSeriesForecastingInPython/Chapter_01_Introduction_to_Time_Series_Forecasting
+    cd PredictingSequence-TimeSeriesAnalysis
     ```
 3.  **Install the necessary libraries:**
     (It's recommended to use a virtual environment)
