@@ -2,26 +2,9 @@
 
 This repository contains the code and resources for the book "Time Series Forecasting in Python". The goal of this book and its accompanying code is to teach you how to build powerful and accurate predictive models for time series data using the Python programming language.
 
-## About the Book
+## About the Project
 
-"Time Series Forecasting in Python" provides a comprehensive guide to understanding, building, and deploying time series forecasting models. From traditional statistical methods to advanced deep learning techniques, this resource covers everything you need to become proficient in time series prediction. Each chapter is accompanied by hands-on projects using real-life datasets, ensuring a practical learning experience.
-
-## Repository Structure
-
-The repository is organized by chapters of the book. Each chapter folder contains Jupyter notebooks with the code discussed in the book, allowing you to follow along and experiment with the concepts.
-
-├── Chapter_01_Introduction_to_Time_Series_Forecasting/
-├── Chapter_02_Forecasting_Non-Stationary_Time_Series/
-├── Chapter_03_Accounting_for_Seasonality/
-├── Chapter_04_Adding_External_Variables/
-├── Chapter_05_Forecasting_Multiple_Time_Series/
-├── Chapter_06_Introducing_Deep_Learning_for_Time_Series_Forecasting/
-├── Chapter_07_Data_Windowing_and_Creating_Baselines_for_Deep_Learning/
-├── Chapter_08_Using_LSTMs_for_Remembering_Past_Data/
-├── Chapter_09_Filtering_Time_Series_with_CNNs/
-├── Chapter_10_Automating_Time_Series_Forecasting_with_Prophet/
-└── Data/
-└── Images/ # Contains visualization images
+"Time Series Forecasting in Python & TensorFlow" provides a comprehensive guide to understanding, building, and deploying time series forecasting models. From traditional statistical methods to advanced deep learning techniques, this resource covers everything you need to become proficient in time series prediction. Each chapter is accompanied by hands-on projects using real-life datasets, ensuring a practical learning experience.
 
 ## Key Topics & Features
 
